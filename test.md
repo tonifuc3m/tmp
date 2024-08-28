@@ -19,7 +19,7 @@
 	1. Vete a la pestaña X
 	2. Rellena Y
 2. **Sube tus documentos**. Clica aquí para ver una lista de los tipos de archivo válidos. Los pasos para subir los documentos son los siguientes:
-	1. Ve a la pestaña X
+	1. Ve a la pestaña **Colección**
 	2. Súbelos en el drag-and-drop
 	3. Clica en ...
 	4. Espera a ver el mensaje de ...
@@ -54,7 +54,7 @@ Tienes a tu disposición otras funcionalidades muy útiles:
 ### C.1 Evalúa tu Bot
 En la pestaña **Evaluación**, puedes estimar la calidad de tu bot. Para ello necesitas crear tú una serie de preguntas y respuestas correctas. Estas se compararán con las respuestas automáticas de tu bot para determinar la calidad, así que es muy importante que las respuestas sean válidas.
 
-1. Vete a la pestaña X
+1. Vete a la pestaña **Evaluación**
 2. Sube tu archivo con preguntas y respuestas correctas. 
 3. Clica en XXX
 
@@ -63,7 +63,10 @@ La evaluación se muestra abajo.
 Estamos trabajando para que en el futuro no tengas que crear tú la serie de preguntas y respuestas correctas. 
 
 ### C.2 Comprueba que todos los servicios están activos
-En la pestaña **Diagnóstico**, etc.
+
+* Vete a la pestaña **Diagnóstico**
+* Los servicios que estén en verde están activos
+  
 </details>
 
 
@@ -75,7 +78,7 @@ En la pestaña **Diagnóstico**, etc.
 <summary> (Click to expand)</summary>
 <br /> 
 
-Tipos de archivo que puede subir en la pestaña "Colección":
+Tipos de archivo que puede subir en la pestaña **Colección**:
 * docx
 * txt
 * pdf

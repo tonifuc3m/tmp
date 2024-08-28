@@ -42,11 +42,14 @@ Voilà! Cuando veas este mensaje significa que tu colección está lista para us
 2. **Ve a la pestaña de "Uso"**. En esa pestaña tienes varias opciones para usar tu bot. Por ejemplo, ...
 </details>
 
-<!-- <details> -->
+
 <a name="otros"></a>
 ## C. Otras funcionalidades
-<!-- <summary> ## C. Otras funcionalidades (Click to expand)</summary> -->
-Este sistema tiene otras funcionalidades que te pueden resultar útiles:
+<details>
+<summary>(Click to expand)</summary>
+<br /> 
+
+Tienes a tu disposición otras funcionalidades muy útiles:
 
 ### C.1 Evalúa tu Bot
 En la pestaña **Evaluación**, puedes estimar la calidad de tu bot. Para ello necesitas crear tú una serie de preguntas y respuestas correctas. Estas se compararán con las respuestas automáticas de tu bot para determinar la calidad, así que es muy importante que las respuestas sean válidas.
@@ -61,18 +64,21 @@ Estamos trabajando para que en el futuro no tengas que crear tú la serie de pre
 
 ### C.2 Comprueba que todos los servicios están activos
 En la pestaña **Diagnóstico**, etc.
-<!-- </details> -->
+</details>
 
 
 
-<!-- <details> -->
+
 <a name="tipos_archivo"></a>
 ## D. Tipos de archivo permitidos
-<!-- <summary> ## D. Tipos de archivo permitidos (Click to expand)</summary> -->
+<details>
+<summary> (Click to expand)</summary>
+<br /> 
+
 Tipos de archivo que puede subir en la pestaña "Colección":
 * docx
 * txt
 * pdf
 * csv
 * audio: mp4, wav, mp3, flac, off, webm, m4a
-<!-- </details> -->
+</details>

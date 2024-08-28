@@ -9,12 +9,12 @@
 * [D. Tipos de archivos permitidos](#tipos_archivo)
 
 
-<details> 
 <a name="pasos_crear_bot"></a>
-<!-- ## A. Pasos para crear tu Bot -->
-<summary> ## A. Pasos para crear tu Bot (Click to expand)</summary>
-Pasos para crear tu sistema de preguntas y respuestas:
-
+## A. Pasos para crear tu Bot
+<details> 
+<summary> (Click to expand) </summary>
+<br /> 
+	
 1. **Crea una colección de documentos** vacía.
 	1. Vete a la pestaña X
 	2. Rellena Y
@@ -31,13 +31,16 @@ Pasos para crear tu sistema de preguntas y respuestas:
 Voilà! Cuando veas este mensaje significa que tu colección está lista para usarse.
 </details>
 
-<!-- <details> -->
+
 <a name="uso_bot"></a>
 ## B. Cómo usar tu Bot
-<!-- <summary> ## B. Cómo usar tu Bot (Click to expand)</summary> -->
+<details> 
+<summary> (Click to expand)</summary>
+<br /> 
+	
 1. **Asegúrate de tener marcada la casilla de tu colección**
 2. **Ve a la pestaña de "Uso"**. En esa pestaña tienes varias opciones para usar tu bot. Por ejemplo, ...
-<!-- </details> -->
+</details>
 
 <!-- <details> -->
 <a name="otros"></a>

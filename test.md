@@ -69,19 +69,37 @@ Aquí encontrarás las instrucciones de uso para crear y utilizar tu bot de Preg
 
 Tienes a tu disposición otras funcionalidades muy útiles:
 
-1. **Edición de documentos dentro de una colección.**
-   - Puedes añadir, eliminar o actualizar documentos en cualquier momento.
-   - Recuerda siempre actualizar la colección después de hacer cambios.
+### 1. Edición de documentos dentro de una colección
+- Puedes añadir, eliminar o actualizar documentos en cualquier momento.
+- Recuerda siempre actualizar la colección después de hacer cambios.
 
-2. **Configuraciones avanzadas.**
-   - Accede a la pestaña **Configuración** para personalizar el comportamiento del bot según tus necesidades específicas.
+### 2. Configuraciones avanzadas
+- Accede a la pestaña **Configuración** para personalizar el comportamiento del bot según tus necesidades específicas.
 
-3. **Evalúa tu Bot**
-   - En la pestaña **Evaluación** puedes estimar la calidad de tu bot. Para ello necesitas subir tú un conjunto de preguntas y respuestas correctas. Estas se compararán con las respuestas automáticas de tu bot para determinar la calidad, así que es muy importante que las respuestas sean válidas.
-   - Estamos trabajando para que en el futuro no tengas que crear tú la serie de preguntas y respuestas correctas.
+### 3. Evalúa tu Bot
+En la pestaña **Evaluación** puedes estimar la calidad de tu bot. Para ello necesitas subir tú un conjunto de preguntas y respuestas correctas. Estas se compararán con las respuestas automáticas de tu bot para determinar la calidad, así que es muy importante que las respuestas sean válidas.
 
-4. **Comprueba que todos los servicios están activos**
-   - Vete a la pestaña **Sistemas**. Los servicios que estén en verde están activos
+**Tip:** El formato del archivo de preguntas y respuestas es el siguiente:
+   
+- Cada par pregunta-respuesta debe estar separado por una línea en blanco
+- Cada pregunta debe ir predecida de `Q: `
+- Cada respuesta debe ir predecida de `A: `
+- Puedes añadir varias respuestas posibles a una pregunta
+
+```
+    Q: What is the capital of spain?
+    A: Madrid
+
+    Q: 1+1?
+    A: 2
+    A: It's 2
+    A: Two
+```  
+
+Estamos trabajando para que en el futuro no tengas que crear tú la serie de preguntas y respuestas correctas.
+
+### 4. Comprueba que todos los servicios están activos
+- Vete a la pestaña **Sistemas**. Los servicios que estén en verde están activos
 
 
 </details>

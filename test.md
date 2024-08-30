@@ -18,7 +18,7 @@ Aquí encontrarás las instrucciones de uso para crear y utilizar tu bot de Preg
 1. **Crea una colección de documentos** vacía.
 	1. En el menú de la izquierda, haz clic en "Nueva colección".
  	2. Introduce los datos requeridos.
-<img width="391" alt="tutorial_1" src="https://github.com/user-attachments/assets/51908dc8-8e53-46b9-9ab9-f1357f96a0e8">
+<img width="391" alt="tutorial_1" src="tutorial_1.png">
 
 
 2. **Sube tus documentos**. [Consulta los tipos de archivo válidos aquí](#tipos_archivo)
@@ -27,7 +27,7 @@ Aquí encontrarás las instrucciones de uso para crear y utilizar tu bot de Preg
 	3. Arrastra y suelta tus archivos en el área designada.
 	3. Haz click en "Subir documentos".
 	4. **Tip:** Verifica que el número de archivos cargados en la parte superior de la página se ha actualizado.
-<img width="411" alt="tutorial_2" src="https://github.com/user-attachments/assets/f0dccb0b-bc41-46e0-9180-c907c0fc3e6b">
+<img width="411" alt="tutorial_2" src="tutorial_2.png">
 
 
 3. **Actualiza tu colección para incluir los nuevos documentos**.
@@ -35,7 +35,7 @@ Aquí encontrarás las instrucciones de uso para crear y utilizar tu bot de Preg
  	2. Ve a la pestaña "Colección"
 	3. Haz clic en el botón "Recalcular colección".
  	4. **Tip:** Verás que en la parte superior de la página aparece que la colección acaba de recalcularse
-<img width="397" alt="tutorial_3" src="https://github.com/user-attachments/assets/ec8c6f4f-9d80-4ebb-a405-613f3ad28159">
+<img width="397" alt="tutorial_3" src="tutorial_3.png">
 
 
 ¡Listo! Tu colección está lista para [usarse](#uso_bot).
@@ -55,7 +55,7 @@ Aquí encontrarás las instrucciones de uso para crear y utilizar tu bot de Preg
 2. **Busca información o haz preguntas en la pestaña "Uso".**
    - Ve a la pestaña **Uso**.
    - Aquí puedes buscar fragmentos de texto relevantes o hacer preguntas que el bot responderá basándose en los documentos de tu colección. También tienes el comando para hacer lo mismo desde tu terminal.
-<img width="394" alt="tutorial_uso" src="https://github.com/user-attachments/assets/ef56a216-a04b-4d59-a533-dceff7135ca1">
+<img width="394" alt="tutorial_uso" src="tutorial_uso.png">
 
 
 </details>

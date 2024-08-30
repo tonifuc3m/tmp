@@ -118,7 +118,8 @@ Tipos de archivo que puedes subir en la pestaña **Colección**:
 * Archivos de texto (.txt)
 * PDF (.pdf)
 * CSV (.csv)
-* Audio (.wav)
+* Markdown (.md)
+* Audio (.wav y .mp3)
 
 **Tip:** Asegúrate de que tus archivos estén en uno de estos formatos antes de subirlos para evitar errores.
 

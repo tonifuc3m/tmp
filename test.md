@@ -1,6 +1,6 @@
 # Bienvenido al creador de Bots de Preguntas y Respuestas!
 
-Aquí encontrarás las instrucciones de uso:
+Aquí encontrarás las instrucciones de uso para crear y utilizar tu bot de Preguntas y Respuestas de manera sencilla.
 
 ## Índice
 * [A. Pasos para crear tu Bot](#pasos_crear_bot)
@@ -12,33 +12,33 @@ Aquí encontrarás las instrucciones de uso:
 <a name="pasos_crear_bot"></a>
 ## A. Pasos para crear tu Bot
 <details> 
-<summary> (Click to expand) </summary>
+<summary> (Haz clic para expandir) </summary>
 <br /> 
 	
 1. **Crea una colección de documentos** vacía.
-	1. En el menú de la izquierda, clica en "Nueva colección".
- 	2. Introduce los datos.
+	1. En el menú de la izquierda, haz clic en "Nueva colección".
+ 	2. Introduce los datos requeridos.
 <img width="391" alt="tutorial_1" src="https://github.com/user-attachments/assets/51908dc8-8e53-46b9-9ab9-f1357f96a0e8">
 
 
-2. **Sube tus documentos**. [Clica aquí para ver los tipos de archivo válidos](#tipos_archivo)
-	1. Selecciona tu colección en el menú de la izquierda
+2. **Sube tus documentos**. [Consulta los tipos de archivo válidos aquí](#tipos_archivo)
+	1. Selecciona la colección que creaste en el menú de la izquierda
  	2. Ve a la pestaña **Colección**
-	3. Súbelos en el drag-and-drop
-	3. Clica en "Subir documentos".
-	4. Verás que el número de archivos cargados en la parte superior de la página se ha actualizado.
+	3. Arrastra y suelta tus archivos en el área designada.
+	3. Haz click en "Subir documentos".
+	4. **Tip:** Verifica que el número de archivos cargados en la parte superior de la página se ha actualizado.
 <img width="411" alt="tutorial_2" src="https://github.com/user-attachments/assets/f0dccb0b-bc41-46e0-9180-c907c0fc3e6b">
 
 
-3. **Recalcula tu colección**. Para que los cambios de los nuevos documentos surtan efecto, tienes que recalcular la colección.
+3. **Actualiza tu colección para incluir los nuevos documentos**.
 	1. Selecciona tu colección en el menú de la izquierda
  	2. Ve a la pestaña "Colección"
-	3. Clica en el botón "Recalcular colección".
- 	4. Verás que en la parte superior de la página aparece que la colección acaba de recalcularse
+	3. Haz clic en el botón "Recalcular colección".
+ 	4. **Tip:** Verás que en la parte superior de la página aparece que la colección acaba de recalcularse
 <img width="397" alt="tutorial_3" src="https://github.com/user-attachments/assets/ec8c6f4f-9d80-4ebb-a405-613f3ad28159">
 
 
-Voilà! Tu colección está lista para [usarse](#uso_bot).
+¡Listo! Tu colección está lista para [usarse](#uso_bot).
 
 </details>
 
@@ -46,11 +46,15 @@ Voilà! Tu colección está lista para [usarse](#uso_bot).
 <a name="uso_bot"></a>
 ## B. Cómo usar tu Bot
 <details> 
-<summary> (Click to expand)</summary>
+<summary> (Haz clic para expandir)</summary>
 <br /> 
 	
-1. **Asegúrate de tener marcada la casilla de tu colección**
-2. **Ve a la pestaña de "Uso"**. Esta pestaña te permite buscar fragmentos de texto relevantes para una pregunta e incluso responder a esa pregunta, siempre que la información esté contenida en los documentos que acabas de subir. Puedes interactuar desde esta pestaña, o copiarte el comando para hacerlo desde tu terminal.
+1. **Asegúrate de tener seleccionada la colección adecuada.**
+   - Verifica que la casilla junto a tu colección esté marcada.
+
+2. **Busca información o haz preguntas en la pestaña "Uso".**
+   - Ve a la pestaña **Uso**.
+   - Aquí puedes buscar fragmentos de texto relevantes o hacer preguntas que el bot responderá basándose en los documentos de tu colección. También tienes el comando para hacer lo mismo desde tu terminal.
 <img width="394" alt="tutorial_uso" src="https://github.com/user-attachments/assets/ef56a216-a04b-4d59-a533-dceff7135ca1">
 
 
@@ -60,30 +64,24 @@ Voilà! Tu colección está lista para [usarse](#uso_bot).
 <a name="otros"></a>
 ## C. Otras funcionalidades
 <details>
-<summary>(Click to expand)</summary>
+<summary>(Haz clic para expandir)</summary>
 <br /> 
 
 Tienes a tu disposición otras funcionalidades muy útiles:
 
-### C.1 Evalúa tu Bot
-En la pestaña **Evaluación** puedes estimar la calidad de tu bot. Para ello necesitas subir tú un conjunto de preguntas y respuestas correctas. Estas se compararán con las respuestas automáticas de tu bot para determinar la calidad, así que es muy importante que las respuestas sean válidas.
+1. **Edición de documentos dentro de una colección.**
+   - Puedes añadir, eliminar o actualizar documentos en cualquier momento.
+   - Recuerda siempre actualizar la colección después de hacer cambios.
 
-1. Vete a la pestaña **Evaluación**
-2. Sube tu archivo con preguntas y respuestas correctas. 
-3. Clica en "Evaluar"
+2. **Configuraciones avanzadas.**
+   - Accede a la pestaña **Configuración** para personalizar el comportamiento del bot según tus necesidades específicas.
 
-La evaluación se muestra abajo.
+3. **Evalúa tu Bot**
+   - En la pestaña **Evaluación** puedes estimar la calidad de tu bot. Para ello necesitas subir tú un conjunto de preguntas y respuestas correctas. Estas se compararán con las respuestas automáticas de tu bot para determinar la calidad, así que es muy importante que las respuestas sean válidas.
+   - Estamos trabajando para que en el futuro no tengas que crear tú la serie de preguntas y respuestas correctas.
 
-Estamos trabajando para que en el futuro no tengas que crear tú la serie de preguntas y respuestas correctas. 
-
-### C.2 Comprueba que todos los servicios están activos
-
-1. Vete a la pestaña **Sistemas**
-2. Los servicios que estén en verde están activos
-
-
-### C.3 Opciones avanzadas al crear la colección
-En la pestaña **Colección** puedes seleccionar algunos de los parámetros que se usan al crear una colección. Estamos trabajando para darte varias opciones de configuraciones según tus preferencias de rendimiento.
+4. **Comprueba que todos los servicios están activos**
+   - Vete a la pestaña **Sistemas**. Los servicios que estén en verde están activos
 
 
 </details>
@@ -94,13 +92,16 @@ En la pestaña **Colección** puedes seleccionar algunos de los parámetros que 
 <a name="tipos_archivo"></a>
 ## D. Tipos de archivo permitidos
 <details>
-<summary> (Click to expand)</summary>
+<summary> (Haz clic para expandir)</summary>
 <br /> 
 
-Tipos de archivo que puede subir en la pestaña **Colección**:
-* docx
-* txt
-* pdf
-* csv
-* wav
+Tipos de archivo que puedes subir en la pestaña **Colección**:
+* Word (.docx)
+* Archivos de texto (.txt)
+* PDF (.pdf)
+* CSV (.csv)
+* Audio (.wav)
+
+**Tip:** Asegúrate de que tus archivos estén en uno de estos formatos antes de subirlos para evitar errores.
+
 </details>
